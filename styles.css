@@ -50,7 +50,7 @@ img{
 #parastmnt{
     color: var(--Grayishblue);
     text-align: center;
-    weight: 400;
+    font-weight: 400;
     font-size: 0.8rem;
     margin: 20px;
 }
